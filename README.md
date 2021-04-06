@@ -6,7 +6,7 @@ Turning an idea into a product is the greatest feeling ever!
 
 Currently pursuing my CS degree at University of California, Irvine.
 
-## Links
+## Links 🔗
 💻 See my hackathon projects on [DevPost](https://devpost.com/shengyuan-lu)
 
 🎥 Watch my videos on [YouTube](https://www.youtube.com/ShengyuanLu)
