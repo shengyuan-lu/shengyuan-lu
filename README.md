@@ -13,4 +13,4 @@ Currently pursuing my CS degree at University of California, Irvine.
 
 💼 Connect with me on [Linkedin](http://www.linkedin.com/in/shengyuan-lu)
 
-📱 Download my iOS apps on [App Store](https://apps.apple.com/us/developer/shengyuan-lu/id1450568803)
+📱 Download TOEFL Speaking Helper on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
