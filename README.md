@@ -4,9 +4,9 @@ I am an iOS developer who also enjoys designing products and editing videos.
 
 Turning an idea into a product is the greatest feeling ever!
 
-Pursuing my CS degree at University of California, Irvine.
-
 ## Links 🔗
+📄 Read my resume [Here](https://drive.google.com/file/d/1B26FKwcBheJfcWMzggvrUTzgTxMIpYH4/view?usp=sharing)
+
 💻 See my hackathon projects on [DevPost](https://devpost.com/shengyuan-lu)
 
 🎥 Watch my videos on [YouTube](https://www.youtube.com/ShengyuanLu)
