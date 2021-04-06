@@ -1,6 +1,6 @@
 ## Hi, I'm Shengyuan 👋🏻
 
-I am an iOS app developer who also enjoys designing products and editing videos.
+I am an iOS developer who also enjoys designing products and editing videos.
 
 Turning an idea into a product is the greatest feeling ever!
 
