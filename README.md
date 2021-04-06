@@ -4,7 +4,7 @@ I am an iOS developer who also enjoys designing products and editing videos.
 
 Turning an idea into a product is the greatest feeling ever!
 
-Currently pursuing my CS degree at University of California, Irvine.
+Pursuing my CS degree at University of California, Irvine.
 
 ## Links 🔗
 💻 See my hackathon projects on [DevPost](https://devpost.com/shengyuan-lu)
