@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Shengyuan 👋🏻
 
-<!--
-**shengyuan-lu/shengyuan-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an iOS app developer who also enjoys designing products and editing videos.
 
-Here are some ideas to get you started:
+Turning an idea into a product is the greatest feeling ever!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing my CS degree at University of California, Irvine.
+
+
+🎥 Watch my videos on [YouTube](https://www.youtube.com/ShengyuanLu)
+
+💼 Connect with me on [Linkedin](http://www.linkedin.com/in/shengyuan-lu)
+
+📱 Download my iOS Apps on [App Store](https://apps.apple.com/us/developer/shengyuan-lu/id1450568803)
