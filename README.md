@@ -4,7 +4,7 @@ I am an iOS developer who also enjoys designing products and editing videos.
 
 Turning an idea into a product is the greatest feeling ever!
 
-Stats: | 2 Apps Published to Apple App Store | 3X Hackathon Winner | 2X Design-a-thon Winner
+Stats: 2 Apps Published to Apple App Store | 3X Hackathon Winner | 2X Design-a-thon Winner
 
 ## Links 🔗
 📄 Read my technical resume [Here](https://drive.google.com/file/d/1B26FKwcBheJfcWMzggvrUTzgTxMIpYH4/view?usp=sharing)
