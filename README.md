@@ -1,5 +1,7 @@
 ## Hi, I'm Shengyuan 👋🏻
 
+<img src="https://i.imgur.com/ptmWFWx.png" width=750 />
+
 I am an iOS developer who also enjoys designing products and editing videos.
 
 Turning an idea into a product is the greatest feeling ever!
