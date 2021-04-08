@@ -1,6 +1,6 @@
 ## Hi, I'm Shengyuan 👋🏻
 
-<img src="https://i.imgur.com/ptmWFWx.png" width=750 />
+<img src="https://i.imgur.com/ptmWFWx.png" width=500 />
 
 I am an iOS developer who also enjoys designing products and editing videos.
 
