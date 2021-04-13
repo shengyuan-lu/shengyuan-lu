@@ -9,7 +9,7 @@ Turning an idea into a product is the greatest feeling ever!
 Stats: 2 Apps on Apple App Store | 3X Hackathon Winner | 2X Design-a-thon Winner | 45 Videos on YouTube
 
 ## Links 🔗
-📄 Read my technical resume [Here](https://drive.google.com/file/d/1B26FKwcBheJfcWMzggvrUTzgTxMIpYH4/view?usp=sharing)
+📄 Read my technical resume [Here](https://drive.google.com/file/d/1YVSys2nmIZe-6dFKzAhCplpFGdgAON1v/view?usp=sharing)
 
 💻 See my hackathon projects on [DevPost](https://devpost.com/shengyuan-lu)
 
