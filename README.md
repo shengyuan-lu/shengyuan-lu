@@ -11,7 +11,7 @@ Stats: 2 Apps on Apple App Store | 3X Hackathon Winner | 2X Design-a-thon Winner
 ## Links 🔗
 📄 Read my technical resume [Here](https://drive.google.com/file/d/1ENR-853C_3UDpBIHF45-ZXO0a_0Bq6Nv/view)
 
-💻 See my hackathon projects on [DevPost](https://devpost.com/shengyuan-lu)
+💻 See my hackathon projects on [Devpost](https://devpost.com/shengyuan-lu)
 
 🎥 Watch my videos on [YouTube](https://www.youtube.com/ShengyuanLu)
 
