@@ -19,3 +19,5 @@ Turning an idea into a product is the greatest feeling ever!
 
 ## GitHub Stats 💯
 ![Shengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shengyuan-lu)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=shengyuan-lu)
