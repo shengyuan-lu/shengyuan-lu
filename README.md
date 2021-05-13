@@ -16,3 +16,6 @@ Turning an idea into a product is the greatest feeling ever!
 💼 Connect with me on [Linkedin](http://www.linkedin.com/in/shengyuan-lu)
 
 📱 Download TOEFL Speaking Helper on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
+
+## GitHub Stats 💯
+![Shengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shengyuan-lu)
