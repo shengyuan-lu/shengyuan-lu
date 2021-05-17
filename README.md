@@ -7,7 +7,7 @@ I am an iOS developer who also enjoys designing products and editing videos.
 Turning an idea into a product is the greatest feeling ever!
 
 ## Links 🔗
-📄 Read my technical resume [Here](https://drive.google.com/file/d/1qBoIP6QdWTvSpWAgE892UzYAQg6QFKdQ/view?usp=sharing)
+📄 Read my technical resume [Here](https://drive.google.com/file/d/10tqEVAN2GVNa6vpafUMYjeYMd0LoI16z/view?usp=sharing)
 
 💻 See my hackathon projects on [Devpost](https://devpost.com/shengyuan-lu)
 
