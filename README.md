@@ -2,9 +2,7 @@
 
 <img src="https://i.imgur.com/ptmWFWx.png" />
 
-I am an iOS developer who also enjoys designing products and editing videos.
-
-Turning an idea into a product is the greatest feeling ever!
+If what I want doesn’t exist, I build it from scratch. From the chemistry board game I designed in high school to my newest iOS app TOEFL Speaking Helper, I am obsessed with turning ideas into reality. Currently, products I designed, developed, and marketed serve customers in 54 countries, and I couldn't be more proud knowing my work has a big impact.
 
 ## Links 🔗
 💻 See my hackathon projects on [Devpost](https://devpost.com/shengyuan-lu)
