@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/wM5s3r0.png" />
 
-If what I want doesn’t exist, I build it from scratch. From the chemistry board game I designed in high school to my newest iOS app ZotMeal, I am obsessed with turning ideas into reality. Currently, products I designed, developed, and marketed serve 2,000 customers in 60 countries, and I couldn't be more proud knowing my work has a big impact.
+If what I want doesn’t exist, I build it from scratch. From the chemistry board game I designed in high school to my newest iOS app ZotMeal, I am obsessed with turning ideas into reality. Currently, products I designed, developed, and marketed serve 2,000 users in 60 countries, and I couldn't be more proud knowing my work has a big impact.
 
 ## Links 🔗
 💻 See my hackathon projects on [Devpost](https://devpost.com/shengyuan-lu)
