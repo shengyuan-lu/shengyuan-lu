@@ -5,6 +5,10 @@
 If what I want doesn’t exist, I build it from scratch. From the chemistry board game I designed in high school to my newest iOS app ZotMeal, I am obsessed with turning ideas into reality. Currently, products I designed, developed, and marketed serve over 3,000 users in 60 countries, and I couldn't be more proud knowing my work has a big impact.
 
 ## Links 🔗
+📱 Download ZotMeal on [Apple App Store](https://apps.apple.com/us/app/zotmeal/id1551606266)
+
+📱 Download TOEFL Speaking Helper on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
+
 💻 See my hackathon projects on [Devpost](https://devpost.com/shengyuan-lu)
 
 🎥 Watch my videos on [YouTube](https://www.youtube.com/ShengyuanLu)
@@ -12,10 +16,6 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 💼 Connect with me on [Linkedin](http://www.linkedin.com/in/shengyuan-lu)
 
 🎨 Design with me on [Dribbble](https://dribbble.com/shengyuan-lu)
-
-📱 Download ZotMeal on [Apple App Store](https://apps.apple.com/us/app/zotmeal/id1551606266)
-
-📱 Download TOEFL Speaking Helper on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
 
 ## Stats 💯
 
