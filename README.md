@@ -20,8 +20,8 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 
 ## Stats 💯
 
-Due to security concerns, I will not accept any pull requests at this time unless the person has contacted me prior. 
-Harassment against me or my team will not be tolerated and any offender will be blocked everywhere.
+Note: Due to security concerns, I will not accept any pull requests at this time unless the person has contacted me prior. 
+Harassment against me or my team will not be tolerated and any offenders will get blocked everywhere.
 
 Contribution | Language
 --- | --- 
