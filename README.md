@@ -20,7 +20,7 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 
 ## Stats 💯
 
-Note: Due to security concerns, I will not accept any pull requests at this time unless the person has contacted me prior. 
+Note: Due to security concerns, I will not accept any pull requests at this time unless the person has contacted me prior or the person is a known collaborator. 
 Harassment against me or my team will not be tolerated and any offenders will get blocked everywhere.
 
 Contribution | Language
