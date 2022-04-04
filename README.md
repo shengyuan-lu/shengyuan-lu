@@ -2,9 +2,7 @@
 
 ![G3@2x](https://user-images.githubusercontent.com/70995597/160811653-9e74016b-6c80-4670-992e-5464daf93b29.png)
 
-If what I want doesn’t exist, I build it from scratch. From the chemistry board game I designed in high school to my newest iOS app ZotMeal, I am obsessed with turning ideas into reality. Currently, products I designed, developed, and marketed serve over 3,000 users in 60 countries, and I couldn't be more proud knowing my work has a big impact.
-
-Due to security concerns, I will not accepting any merge requests at this time unless the person has contacted me prior. Harassment against me or my team will not be tolerated and any offender will be blocked everywhere.
+If what I want doesn’t exist, I build it from scratch. From the chemistry board game I designed in high school to my newest iOS app ZotMeal, I am obsessed with turning ideas into reality. Currently, products I designed, developed, and marketed serve over 3,500 users in 60 countries, and I couldn't be more proud knowing my work has a big impact.
 
 ## Socials 🔗
 💻 See my hackathon projects on [Devpost](https://devpost.com/shengyuan-lu)
@@ -21,6 +19,9 @@ Due to security concerns, I will not accepting any merge requests at this time u
 📱 Download [TOEFL Speaking Helper](https://shengyuan-lu.com/toefl-helper-app-website/) on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
 
 ## Stats 💯
+
+Due to security concerns, I will not accept any pull requests at this time unless the person has contacted me prior. 
+Harassment against me or my team will not be tolerated and any offender will be blocked everywhere.
 
 Contribution | Language
 --- | --- 
