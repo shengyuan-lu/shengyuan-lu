@@ -20,9 +20,6 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 
 ## Stats 💯
 
-Note: Due to security concerns, I will not accept any pull requests at this time unless the person has contacted me prior or the person is a known collaborator. 
-Harassment against me or my team will not be tolerated and any offenders will get blocked everywhere.
-
 Contribution | Language
 --- | --- 
 ![Shengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shengyuan-lu) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shengyuan-lu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
