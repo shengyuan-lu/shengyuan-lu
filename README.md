@@ -19,7 +19,7 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 📱 Download [TOEFL Speaking Helper](https://shengyuan-lu.com/toefl-helper-app-website/) on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
 
 ## Stats 💯
-Note: Due to recent harassment against me and my team, I have temporarily increased the security level on all my public repositories. Currently, only people I know in person may contribute to my projects. I sincerely apologize for any inconveniences. 
+Due to recent harassments against me and my team, I have temporarily increased the security level on all my public repositories. Currently, only people I know in person may contribute to my projects. I sincerely apologize for any inconveniences. 
 
 Contribution | Language
 --- | --- 
