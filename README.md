@@ -19,8 +19,6 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 📱 Download [TOEFL Speaking Helper](https://shengyuan-lu.com/toefl-helper-app-website/) on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
 
 ## Stats 💯
-Due to recent harassments against me and my team, I have temporarily increased the security level on all my public repositories. Currently, only people I know in person may contribute to my projects. I sincerely apologize for any inconveniences. 
-
 Contribution | Language
 --- | --- 
 ![Shengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shengyuan-lu) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shengyuan-lu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
