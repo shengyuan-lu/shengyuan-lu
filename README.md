@@ -9,6 +9,8 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 
 📱 Download [TOEFL Speaking Helper](https://shengyuan-lu.com/toefl-helper-app-website/) on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
 
+🌎 Visit my personal website [shengyuan-lu.com](https://shengyuan-lu.com/)
+
 ## Socials 🔗
 💻 See my hackathon projects on [Devpost](https://devpost.com/shengyuan-lu)
 
