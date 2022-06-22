@@ -25,7 +25,7 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 ## Stats 
 Contribution | Language
 --- | --- 
-![Shengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shengyuan-lu) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shengyuan-lu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Shengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shengyuan-lu&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shengyuan-lu&layout=compact)
 
 
 
