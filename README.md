@@ -23,10 +23,6 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 🎨 Design with me on [Dribbble](https://dribbble.com/shengyuan-lu)
 
 ## Stats 
-Contribution | Language
---- | --- 
-![Shengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shengyuan-lu&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shengyuan-lu&layout=compact)
-
-
+![Shengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shengyuan-lu&show_icons=true) 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shengyuan-lu&style=flat)
