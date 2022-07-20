@@ -22,6 +22,13 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 
 🎨 Design with me on [Dribbble](https://dribbble.com/shengyuan-lu)
 
+## Tech Stack
+✅ Comfortable: Python, Swift, Git
+
+🟧 Familiar: C++, MIPS
+
+🎓 Learning: HTML, CSS, SQL, C#
+
 ## Stats 
 ![Shengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shengyuan-lu&show_icons=true) 
 
