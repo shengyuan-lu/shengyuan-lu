@@ -23,7 +23,7 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 🎨 Design with me on [Dribbble](https://dribbble.com/shengyuan-lu)
 
 ## Tech Stack
-🟢 Comfortable: Python, Swift, Git
+🟢 Advanced: Python, Swift, Git
 
 🟠 Familiar: C++, MIPS
 
