@@ -1,5 +1,5 @@
 ## Hi, I'm Shengyuan 👋🏻
-I am an engineer by training, a software developer by profession, and a creative artist at heart.
+I am an engineer by training, a software developer by profession, and a creative artist by heart.
 
 ![G3@2x](https://user-images.githubusercontent.com/70995597/160811653-9e74016b-6c80-4670-992e-5464daf93b29.png)
 
