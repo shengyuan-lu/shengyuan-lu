@@ -22,14 +22,12 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 
 🎨 Design with me on [Dribbble](https://dribbble.com/shengyuan-lu)
 
-## Tech Stack
-🟢 Advanced: Python, Swift, Git
+## Programming Languages
+🟢 Advanced: Python, Swift
 
-🟠 Familiar: C++, MIPS
+🟠 Familiar: C++, HTML, CSS, MIPS Assembly
 
-🔵 Learning: HTML, CSS, Javascript, SQL, C#
+🔵 Learning: Javascript, SQL, C#
 
 ## Stats 
-![Shengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shengyuan-lu&show_icons=true) 
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shengyuan-lu&style=flat)
