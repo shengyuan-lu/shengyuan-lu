@@ -30,4 +30,4 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 🔵 Learning: Javascript, SQL, C#
 
 ## Stats 
-![Profile View Counter](https://komarev.com/ghpvc/?username=shengyuan-lu&style=flat)
+![Profile View Counter](https://komarev.com/ghpvc/?username=shengyuan-lu&style=for-the-badge)
