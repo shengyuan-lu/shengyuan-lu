@@ -29,5 +29,10 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 
 🔵 Learning: Javascript, SQL, C#
 
+## Education
+🎓 B.S. Computer Science @ University of California, Irvine
+
+🎓 B.S. Business Information Management @ University of California, Irvine
+
 ## Stats 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shengyuan-lu&style=for-the-badge)
