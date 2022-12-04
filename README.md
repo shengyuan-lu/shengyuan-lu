@@ -25,9 +25,9 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 ## Programming Languages
 🟢 Advanced: Python, Swift, Java
 
-🟠 Familiar: C++, HTML, CSS, MIPS Assembly
+🟠 Familiar: C++, C#, SQL, HTML, CSS
 
-🔵 Learning: C#, SQL, Javascript
+🔵 Learning: Javascript
 
 ## Education
 🎓 B.S. Computer Science @ University of California, Irvine
