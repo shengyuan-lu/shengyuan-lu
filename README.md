@@ -7,9 +7,9 @@ I am an engineer by training, a software developer by profession, and a creative
 If what I want doesn’t exist, I build it from scratch. From the chemistry board game I designed in high school to my newest iOS app ZotMeal, I am obsessed with turning ideas into reality. Currently, products I designed, developed, and marketed serve users in over 60 countries, and I couldn’t be more proud knowing my work has a big impact.
 
 ## Products 
-📱 Download [ZotMeal](https://shengyuan-lu.com/zotmeal-app-website/) on [Apple App Store](https://apps.apple.com/us/app/zotmeal/id1551606266)
+📱 Download [ZotMeal](https://shengyuan-lu.com/project/zotmeal) on [Apple App Store](https://apps.apple.com/us/app/zotmeal/id1551606266)
 
-📱 Download [TOEFL Speaking Helper](https://shengyuan-lu.com/toefl-helper-app-website/) on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
+📱 Download [TOEFL Speaking Helper](https://shengyuan-lu.com/project/toefl-helper) on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
 
 🌎 Visit my personal website at [shengyuan-lu.com](https://shengyuan-lu.com/)
 
