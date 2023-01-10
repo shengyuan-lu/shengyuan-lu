@@ -14,13 +14,13 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 🌎 Visit my personal website at [shengyuan-lu.com](https://shengyuan-lu.com/)
 
 ## Socials 
-💻 See my hackathon projects on [Devpost](https://devpost.com/shengyuan-lu)
-
-🎥 Watch my videos on [YouTube](https://www.youtube.com/ShengyuanLu)
-
 💼 Connect with me on [LinkedIn](http://www.linkedin.com/in/shengyuan-lu)
 
+💻 See my hackathon projects on [Devpost](https://devpost.com/shengyuan-lu)
+
 🎨 Design with me on [Dribbble](https://dribbble.com/shengyuan-lu)
+
+🎥 Watch my videos on [YouTube](https://www.youtube.com/ShengyuanLu)
 
 ## Programming Languages
 🟢 Advanced: Python, Swift, Java
