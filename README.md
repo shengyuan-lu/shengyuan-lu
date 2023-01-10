@@ -27,7 +27,7 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 
 🟠 Familiar: C++, C#, SQL, HTML, CSS
 
-🔵 Learning: Javascript
+🔵 Learning: JavaScript
 
 ## Education
 🎓 B.S. Computer Science @ University of California, Irvine
