@@ -23,9 +23,9 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 🎥 Watch my videos on [YouTube](https://www.youtube.com/ShengyuanLu)
 
 ## Programming Languages
-🟢 Advanced: Python, Swift, Java
+🟢 Advanced: Python, Swift, Java, C#
 
-🟠 Familiar: C++, C#, SQL, HTML, CSS
+🟠 Familiar: C++, SQL, HTML, CSS
 
 🔵 Learning: JavaScript
 
