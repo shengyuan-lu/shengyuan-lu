@@ -21,19 +21,12 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 🎥 Watch my videos on [YouTube](https://www.youtube.com/ShengyuanLu)
 
 ## Programming Languages
-🟢 Advanced: Python, Swift, Java, C#
+🟢 Advanced: Python, Swift, Java, SQL, HTML
 
-🟠 Familiar: C++, SQL, HTML, CSS
-
-🔵 Learning: JavaScript
-
-## Education
-🎓 B.S. Computer Science @ University of California, Irvine
-
-🎓 B.S. Business Information Management @ University of California, Irvine
+🔵 Familiar: C#, CSS, JavaScript, C++
 
 ## Contact
-✉️ Reach me with [this form](https://shengyuan-lu.com/contact-form) - serious inquiries only
+✉️ Reach me with [this form](https://shengyuan-lu.com/contact-form) - professional inquiries only
 
 ## Stats 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shengyuan-lu&style=for-the-badge)
