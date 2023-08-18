@@ -13,10 +13,12 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 
 🌎 Visit my personal website at [shengyuan-lu.com](https://shengyuan-lu.com/)
 
-## Programming Languages
-🟢 Advanced: Python, Swift, Java, SQL
+## Tech Stack
+🟢 Languages: Python, Swift, Java, C#, SQL, C++, HTML, CSS, JavaScript, Bash Shell Script
 
-🔵 Intermediate: C++, C#, JavaScript
+🔵 Frameworks: SwiftUI, CoreML, HealthKit, .NET MVC, Beautiful Soup, Flask, Matplotlib, NumPy, Jupyter Notebook
+
+🟠 Tools: Xcode, PyCharm, IntelliJ, VS Code, Visual Studio, AWS, Git, GitHub Action, Docker, MySQL, TestFlight, Jira 
 
 ## Contact
 📩 Reach me with [this form](https://shengyuan-lu.com/contact-form) - professional inquiries only
