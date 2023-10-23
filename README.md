@@ -4,6 +4,15 @@ I am an engineer by training, a software developer by profession, and a creative
 
 If what I want doesn’t exist, I build it from scratch. From the chemistry board game I designed in high school to my newest iOS app ZotMeal, I am obsessed with turning ideas into reality. Currently, products I designed, developed, and marketed serve users in over 60 countries, and I couldn’t be more proud knowing my work has a big impact.
 
+## News
+🎓 Graduated MLH SRE Fellowship (9/2023)
+
+🏆 Received UC Irvine Billy Steckler Endowed Scholarship (8/2023)
+
+🏆 Received UC Irvine Distinguished Anteater Award (8/2023)
+
+👨🏼‍💻 Attended Apple WWDC 2023 (6/2023)
+
 ## Products 
 📱 Download [ZotMeal](https://shengyuan-lu.com/project/zotmeal) on [Apple App Store](https://apps.apple.com/us/app/zotmeal/id1551606266)
 
