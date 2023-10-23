@@ -11,7 +11,7 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 
 🏆 Received UC Irvine Distinguished Anteater Award (8/2023)
 
-👨🏼‍💻 Attended Apple WWDC 2023 (6/2023)
+👨🏼‍💻 Attended Apple WWDC (6/2023)
 
 ## Products 
 📱 Download [ZotMeal](https://shengyuan-lu.com/project/zotmeal) on [Apple App Store](https://apps.apple.com/us/app/zotmeal/id1551606266)
