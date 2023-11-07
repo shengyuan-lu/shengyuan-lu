@@ -14,11 +14,11 @@ If what I want doesn’t exist, I build it from scratch. From the chemistry boar
 👨🏼‍💻 Attended Apple WWDC (6/2023)
 
 ## Products 
-📱 Download [ZotMeal](https://shengyuan-lu.com/project/zotmeal) on [Apple App Store](https://apps.apple.com/us/app/zotmeal/id1551606266)
-
 📱 Download [TOEFL Speaking Helper (iOS & iPadOS)](https://shengyuan-lu.com/project/toefl-helper) on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
 
 ⌚️ Download [TOEFL Speaking Timer (watchOS)](https://shengyuan-lu.com/project/toefl-timer-watch) on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-timer/id6450870266)
+
+📱 Download [ZotMeal](https://shengyuan-lu.com/project/zotmeal) on [Apple App Store](https://apps.apple.com/us/app/zotmeal/id1551606266)
 
 🌎 Visit my personal website at [shengyuan-lu.com](https://shengyuan-lu.com/)
 
