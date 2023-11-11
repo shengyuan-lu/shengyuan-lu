@@ -2,8 +2,6 @@
 ![GitHub](https://github.com/shengyuan-lu/shengyuan-lu/assets/70995597/97cdc3fb-c546-4a30-831f-447a2e9f96b9)
 I am an engineer by training, a software developer by profession, and a creative artist by heart.
 
-If what I want doesn’t exist, I build it from scratch. From the chemistry board game I designed in high school to my newest iOS app ZotMeal, I am obsessed with turning ideas into reality. Currently, products I designed, developed, and marketed serve users in over 60 countries, and I couldn’t be more proud knowing my work has a big impact.
-
 ## News
 🎓 Graduated MLH SRE Fellowship (9/2023)
 
