@@ -19,7 +19,7 @@ I am an engineer by training, a software developer by profession, and a creative
 📱 Download [ZotMeal](https://shengyuan-lu.com/project/zotmeal) on [Apple App Store](https://apps.apple.com/us/app/zotmeal/id1551606266)
 
 ## Contact
-📩 Reach me with [this form](https://shengyuan-lu.com/contact-form)
+📩 Reach me [here](https://shengyuan-lu.com/contact-form)
 
 ## Stats 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shengyuan-lu&style=for-the-badge)
