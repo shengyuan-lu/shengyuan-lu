@@ -2,15 +2,6 @@
 ![GitHub](https://github.com/shengyuan-lu/shengyuan-lu/assets/70995597/97cdc3fb-c546-4a30-831f-447a2e9f96b9)
 I am an engineer by training, a software developer by profession, and a creative artist by heart.
 
-## News
-🎓 Graduated MLH SRE Fellowship (9/2023)
-
-🏆 Received UC Irvine Billy Steckler Endowed Scholarship (8/2023)
-
-🏆 Received UC Irvine Distinguished Anteater Award (8/2023)
-
-👨🏼‍💻 Attended Apple WWDC (6/2023)
-
 ## Products 
 📱 Download [TOEFL Speaking Helper (iOS & iPadOS)](https://shengyuan-lu.com/project/toefl-helper) on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
 
