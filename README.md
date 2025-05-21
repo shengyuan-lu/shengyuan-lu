@@ -3,6 +3,8 @@
 I am an engineer by training, a software developer by profession, and a creative artist by heart.
 
 ## Products 
+🧭 Download [GREify](https://shengyuan-lu.com/project/greify) on [Apple App Store](https://apps.apple.com/us/app/greify-gre-vocab-replacer/id6745745978)
+
 📱 Download [OPTimize](https://shengyuan-lu.com/project/optimize) on [Apple App Store](https://apps.apple.com/us/app/optimize-f-1-visa-opt-planner/id6741189156)
 
 📱 Download [TOEFL Speaking Helper (iPhone & iPad)](https://shengyuan-lu.com/project/toefl-helper) on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580)
